@@ -1,10 +1,10 @@
+# Hi 我是jiemo 
 
-
-- 🔭 I'm currently working on **an agent project**
+- 🔭 I'm currently working on **an agent project**  <img src="Python.png" alt="Python图标" width="100" />
 
 - 🌱 I'm currently learning **JAVA GOLANG RAG HARNESS**
 
-- 💬 Ask me about **JAVA** ![Static Badge](https://img.shields.io/badge/java-orange?style=plastic&logo=java)
+- 💬 Ask me about **JAVA**  <img src="Java.png" alt="Java图标" width="100" /> 
 
 
 - 📫 How to reach me **15702428749@163.com**
@@ -15,6 +15,9 @@
 - 东北大学 ![Static Badge](https://img.shields.io/badge/NEU-blue?style=flat)   物联网工程  (2028届) 💤
 - 高强度冲浪 🥳
 - 感到压力 😿
+- 在努力做一些事情 🥹
+
+ https://github.com/user-attachments/assets/1f69ac45-b5c8-4bc9-8432-af443231656c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
