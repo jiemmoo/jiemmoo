@@ -1,21 +1,25 @@
-# Hi 👋, I'm jiemo
 
-### a 20-year-old student
 
 - 🔭 I'm currently working on **an agent project**
 
 - 🌱 I'm currently learning **JAVA GOLANG RAG HARNESS**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA** ![Static Badge](https://img.shields.io/badge/java-orange?style=plastic&logo=java)
+
 
 - 📫 How to reach me **15702428749@163.com**
 
 - ⚡ Fun fact **funny、adaptable、amicable**
 
+# About me
+- 东北大学 ![Static Badge](https://img.shields.io/badge/NEU-blue?style=flat)   物联网工程  (2028届) 💤
+- 高强度冲浪 🥳
+- 感到压力 😿
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jiemmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jiemmoo" height="30" width="40" /></a>
-<a href="https://leetcode.com/jiemmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiemmoo" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/jiemoww/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiemmoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
